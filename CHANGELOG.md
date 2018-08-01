@@ -1,7 +1,7 @@
-# Project Cookbook
+# RHCE Lab
 
-This file is used to list changes made in each version of the Project cookbook.
+This file is used to list changes made in each version of the Project RHCE Lab.
 
-## v0.0.0 (date)
+## v1.0.0 (01.08.2018)
 
-- <###> example
+- initialize the first version
