@@ -23,7 +23,6 @@ Vagrant.configure('2') do |config|
       vb.name = 'rhce_lab_server1'
       vb.customize ['modifyvm', :id, '--vram', '8']
       vb.customize ['modifyvm', :id, '--audio', 'none']
-      # vb.audio = 'none'
     end
   end
   config.vm.define :tester1 do |tester1|
